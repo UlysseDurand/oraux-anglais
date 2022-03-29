@@ -1,0 +1,48 @@
+<lgi>
+<header>
+    <commoncode>
+
+import json
+import sys
+import re
+
+
+args = sys.argv[1:]
+
+#infotext = open("../infos.json").read()
+
+#data = json.loads(infotext)
+
+    </commoncode>
+</header>
+<block lang="latex" fileout="document.tex">
+    <aliases>
+1'(^# (.*)$)' -> '\section*{%2}'
+1'(^-----$)' -> '\newpage' 
+1'(^## (.*)$)' -> '\subsection*{%2}'
+2'\[(.*?)\]\((.*?)\)' -> '\unlien{\texttt{%1}}{%2}'
+    </aliases>
+    <code>
+    </code>
+<beforemdx>
+
+\documentclass[10pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{hycolor}
+\usepackage[margin = 1.5cm]{geometry}
+\definecolor{color1}{rgb}{0,0.1,0.3}
+
+\newcommand\unlien[2]{{\color{color1}\href{#1}{\textbf{#2}}}}
+
+\date{}
+
+\begin{document}
+    </beforemdx>
+    <aftermdx>
+\end{document}
+    </aftermdx>
+</block>
+</lgi>
