@@ -23,15 +23,15 @@ public libraries to remove Robin Hood
 
 - In 1964, free speech movement from the Berkeley campus
 
-- Over the last couple of years, "trigger warning" and "safe spaces" in US 
+- Over the last couple of years, "trigger warnings" and "safe spaces" in US 
 colleges
 
 ## The rise of the cancel culture
 
-- JK Rowling had harry potter books removed from libraries because she was 
-considererd transphobian from one of her tweet
+- JK Rowling : some of her books were removed from libraries because she was 
+considererd transphobic after some tweets she posted
 
-- A letter published in Harper's Magazine on 2020 with > 150 intellectuals who 
+- A letter published in Harper's Magazine on 2020 with > 150 intellectuals 
 denounced this worrying trend
 
 
@@ -44,30 +44,30 @@ denounced this worrying trend
 
 - Largest voter turnout in the past 100 years -> 66 percent of eligible
 
-- Early votings : > 102 M voted prior to the elect day
+- Early votings : > 102 M voted before the day of the election
 
 - J.-B had > votes than any other president (74M > 69M)
 
-- J.-B the oldest president (78 y.o)
+- J.-B is the oldest president ever (78 y.o)
 
 - Kamala Harris : the 1st female vice-president
 
-- DT had more vote than in 2016 (63M -> 69M) so isn't a "democratic accident"
+- DT had more votes in 2020 than in 2016 (63M -> 69M) so it isn't a "democratic accident"
 
 - The blue wave : Pollsters were wrong (like 4y ago), they underestimated 
 trumps' supports
 
-- Mail-in votes were many (covid) and supported by J.-B
+- Many mail-in votes (covid) and supported by J.-B
 
 ## About the campaign
 
 - The rise of QAnon (conspiracy theory with satan-worshipping pedophiles)
 
 - Supreme court now : 1 liberal and 6 conservative judges -> In favor of Trump
- who had the supreme court demand recounting of votes
+ who got the supreme court demand recounting of votes
 
-- The "October surprise" : DT was tested positive for covid and a cluster in 
-the white house
+- The "October surprise" : DT was tested positive for covid, there was a cluster in 
+the white house 
 
 - For primaries, Biden was unexpected but black voters helped
 
@@ -75,14 +75,14 @@ the white house
 
 - MSNBC, ABC, CBS, CNBS, NBC chose to cut away from his speech
 
-- Twitter, Facebook, TikTok flagged some of his tweets or blocked hastags
+- Twitter, Facebook, TikTok flagged some of his posts or blocked hashtags
 
 ## Fear of an escalation in violence
 
 - DT's tweets : "to go to total war", "it's time to clean up this mess and 
 stop looking like a banana republic"
 
-- Assault of the capitol
+- Assault of the Capitol
 
 
 
@@ -121,24 +121,24 @@ etc...
 # America and racism
 
 - 1916 project : (1916 is the date of the arrival of the first africans on 
-America) for the 400th anniversary, they want to reinterpret history from 
-black people's perspective (criticized of distording history)
+America) for the 400th anniversary, they want to study history taking into account
+black people's perspective (criticized because accused of distorting history)
 
-- A bit of history : the Civil War from 1861 to 1865, won by the north with 
-lincoln as president, when they won, they abolished slavery
+- A bit of history : the Civil War from 1861 to 1865 was won by the North with 
+Lincoln as president : when they won, they abolished slavery
 
 ## Jim Crow laws : segregation laws. In the supreme court ...
 
-- 1896, Plessy vs Terguson : "Separate but equal" it made segregation legal
+- 1896, Plessy vs Terguson : "Separate but equal" => it made segregation legal
 
 - 1954, Brown vs Board of Education of Topika : end of segregation in schools
 
-## Film references
+## References : movies
 
 - Gone with the wind : A movie from 1939 that puts slavery in a better light. 
 There's put a warning in the beginning to prevent misunderstanding.
 
-- Statues of old American heros that were pro slavery wanted to be dismounted
+- Statues of historical American heroes, that were pro slavery, wanted to be dismantled
 
 - BlacKkKlansman : A movie that depicts the horror in the movement of the KKK.
 
@@ -149,11 +149,11 @@ There's put a warning in the beginning to prevent misunderstanding.
 # Social media and privacy
 
 - Cambridge Analytica scandal in 2018 : A whistleblower (Christopher Wylie) 
-showed proofs that Facebook used the data of 87 million users was used to do 
+found evidence that Facebook used the data of 87 million users to do 
 research on how to influence votes.
 
 - Google dismantled its ethic team in 2021 because of a paper they published 
-to warn about the usage of bad data to feed their algorithm.
+to warn about the bad usage of data to feed their algorithm.
 
 
 
@@ -162,8 +162,7 @@ to warn about the usage of bad data to feed their algorithm.
 
 # Social media and fake news
 
-- The Facebook Files scandal in 2021 : A whistleblower (Frances Haugen) showed
-proof that Facebook encouraged the spread of violent contents and fake news. 
+- The Facebook Files scandal in 2021 : A whistleblower (Frances Haugen) found evidence that Facebook encouraged the spread of violent contents and fake news. 
 \unlien{https://en.wikipedia.org/wiki/2021_Facebook_leak}{link here}
 
 
@@ -172,7 +171,7 @@ proof that Facebook encouraged the spread of violent contents and fake news.
 
 # On the working place
 
-## Surveillance of workers (worst becaues of the pandemic)
+## Surveillance of workers (worst because of the pandemic)
 
 
 
